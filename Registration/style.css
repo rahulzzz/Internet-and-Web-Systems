@@ -1,0 +1,40 @@
+body{
+	background:skyblue;
+	background-image: url("gradientbg.jpg");
+	font-family:'Open Sans',sans-serif;
+}
+
+button {
+	font-weight: 600;
+	color: blue;
+	float: left	;
+	background-color:;
+	text-align: center;
+	  
+}
+
+button:hover {
+  color: white;
+  top: 3px;
+  background-color:#2e458b;
+  -webkit-box-shadow: none; 
+  -moz-box-shadow: none; 
+  box-shadow: none;
+
+}
+
+
+em{
+	color:white;
+	
+}
+
+wrapper{
+	text-align: center;
+}
+
+.button {
+    position: absolute:
+    top: 50%;
+}
+
